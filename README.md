@@ -17,4 +17,5 @@ Marketpeak Commerce is a new online market place. This platform features product
  5.<span style="color:orange">Troubleshooting linux server to be able to install Apache web server. ![image](Ecommerce10.png)
 
   6.<span style="color:green">Successful installation of Apache web server.![image](Ecommerce11.png)
- 
+
+ 7.configuring Apache (httpd) website. ![image](Ecommerce12.png)
