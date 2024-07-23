@@ -10,5 +10,11 @@ Marketpeak Commerce is a new online market place. This platform features product
 
   <ins>CLONING THE REPOSITORY ON LINUX SERVER     
   1. Generated ssh key pair by using "ssh-keygen" command on the server. ![alttext](Ecommerce6.png)
- 2. Display,copy and add generated ssh keypair into github account. ![image](Ecommerce7.png)   
- 3. Used SSH clone URL to successfully clone repository on the Linux server. ![image](Ecommerce8.png)
+  2. Display,copy and add generated ssh keypair into github account. ![image](Ecommerce7.png)   
+  3. Used SSH clone URL to successfully clone repository on the Linux server. ![image](Ecommerce8.png)
+  4.<span style="color:red">Unable to install Apache web server. ![image](Ecommerce9.png)
+
+ 5.<span style="color:orange">Troubleshooting linux server to be able to install Apache web server. ![image](Ecommerce10.png)
+
+  6.<span style="color:green">Successful installation of Apache web server.![image](Ecommerce11.png)
+ 
