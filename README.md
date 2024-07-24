@@ -24,3 +24,17 @@ Marketpeak Commerce is a new online market place. This platform features product
 
  9.Creating new banch; DEvelopment.  ![image](Ecommerce14.png)
 
+#### Domain Configuration: 
+unreachable site due to port 80 not being enabled in inbound rules ![alttext](Ecommerce15.png)
+    ![image](Ecommerce16.png)
+     
+- selecting port 80 in inbound rules  ![image](Ecommerce17.png)
+
+### CONTRIBUTORS:
+1.Developers Team
+2.DevOps team
+Operations Team
+Data Analyst
+
+
+This `README.md` file provides a structured guide on how to deploy the website, covering the basic steps from cloning the repository to serving the built project. Adjust the steps and details according to your specific project and deployment environment.
