@@ -20,4 +20,7 @@ Marketpeak Commerce is a new online market place. This platform features product
 
  7.configuring Apache (httpd) for website. ![image](Ecommerce12.png)
 
- 8. Aceessing website from browser 
+ 8.Testing: aceess website from browser. ![image](Ecommerce13.png)
+
+ 9.Creating new banch; DEvelopment.  ![image](Ecommerce14.png)
+
